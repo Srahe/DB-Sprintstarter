@@ -13,4 +13,4 @@
  
 ## Benutzung
  1. Build und Run mit Maven.
- 2. GET Request über ".../betriebsstelle/{RL100 Code}".
+ 2. GET Request über "localhost:8080/betriebsstelle/{RL100 Code}".
