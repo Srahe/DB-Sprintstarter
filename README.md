@@ -12,5 +12,5 @@
  https://data.deutschebahn.com/dataset/data-betriebsstellen.html
  
 ## Benutzung
- 1. Build und Run Spring-Boot mit Maven.
+ 1. Build mit Maven und Run.
  2. GET Request über "localhost:8080/betriebsstelle/{RL100 Code}".
