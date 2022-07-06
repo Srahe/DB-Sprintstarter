@@ -6,7 +6,6 @@ import com.opencsv.bean.CsvBindByName;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.Column;
 
 @Entity
 public class Betriebsstelle {
