@@ -4,7 +4,7 @@
 ## Beschreibung
  Liest Betriebsstellenverzeichnisdaten aus einer lokalen .csv Datei und stellt Abfragen dieser in Form von JSON-Objekten über einen Rest-Endpoint bereit.
  
-### Dependencies
+## Dependencies
  Java, Maven, Spring-Boot, OpenCsv
  
 ## Datenbank
