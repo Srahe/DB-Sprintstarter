@@ -12,5 +12,5 @@
  https://data.deutschebahn.com/dataset/data-betriebsstellen.html
  
 ## Benutzung
- 1. Build and run with Maven.
+ 1. Build und Run mit Maven.
  2. GET Request über ".../betriebsstelle/{RL100 Code}".
